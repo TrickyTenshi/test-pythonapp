@@ -4,7 +4,7 @@ name: CI
 run-name: ${{ github.actor }} is testing out GitHub Actions
 
 env:
-  GITHUB_ACTIONS: PythonApp
+  GITHUB_ACTIONS: PythonAPP
 
 # Controls when the workflow will run
 on:
